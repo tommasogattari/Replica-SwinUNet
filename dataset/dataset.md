@@ -31,6 +31,6 @@ If you want to run datapreparation.ipnyb is possibile to use Jupyter Notebook, o
 - testing_synapse
 - labels
 
-Here https://drive.google.com/drive/folders/1VxwOAskF_cogWEhaFFhOncBF4Lc3Lf49?usp=sharing you can find .png images for each folder
+[Here](https://drive.google.com/drive/folders/1VxwOAskF_cogWEhaFFhOncBF4Lc3Lf49?usp=sharing) you can find .png images for each folder
 
 Otherwise, for the official data already preprocessed go to https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd
