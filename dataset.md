@@ -12,9 +12,19 @@ After this, given that the code of processing the data is not available, i wrote
     keep the 3D volume in h5 format for testing cases 
 
 niigz2png.py guide:
-copy the file into the folder where the nii.gz files are contained and run from command-line shell:
+copy niigz2png into the folder where the nii.gz files are contained and run from command-line shell:
 ```bash
 python3 .\niigz2png.py
+```
+Then write the input and output folder. For example 
+```bash
+Please enter the input folder:
+training.niigz
+
+```
+```bash
+Please enter the output folder:
+training_synapse
 ```
 Then you have to insert the name of the zip folder as input and, as output, the folder in which you want .png images
 
