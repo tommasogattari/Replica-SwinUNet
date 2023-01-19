@@ -11,7 +11,16 @@ After this, given that the code of processing the data is not available, i wrote
 - while for testing:
     keep the 3D volume in h5 format for testing cases 
 
-niigz2png guide:
+niigz2png.py guide:
+copy the file into the folder where the nii.gz files are contained and run from command-line shell:
 ```bash
 python3 .\niigz2png.py
 ```
+Then you have to insert the name of the zip folder as input and, as output, the folder in which you want .png images
+
+If you want to run datapreparation.ipnyb is possibile to use Jupyter Notebook, otherwise they are saved in this github project into these three folers:
+- training_synapse
+- testing_synapse
+- labels
+
+Otherwise, for the official data go to https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd
