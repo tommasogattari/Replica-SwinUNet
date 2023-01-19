@@ -26,7 +26,7 @@ training.niigz
 Please enter the output folder:
 training_synapse
 ```
-Then you have to insert the name of the zip folder as input and, as output, the folder in which you want .png images
+
 
 If you want to run datapreparation.ipnyb is possibile to use Jupyter Notebook, otherwise they are saved in this github project into these three folers:
 - training_synapse
