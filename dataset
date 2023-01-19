@@ -12,6 +12,6 @@ After this, given that the code of processing the data is not available, i wrote
     keep the 3D volume in h5 format for testing cases 
 
 niigz2png guide:
-```python
-   python3 .\niigz2png.py
+```bash
+python3 .\niigz2png.py
 ```
