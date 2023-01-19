@@ -25,7 +25,7 @@ training.niigz
 Please enter the output folder:
 training_synapse
 ```
-If you want to run datapreparation.ipnyb is possibile to use Jupyter Notebook, otherwise they are saved in this github project into these three folers:
+If you want to run datapreparation.ipnyb is possibile to use Jupyter Notebook, otherwise they are saved in this github project into these three folders:
 
 - training_synapse
 - testing_synapse
