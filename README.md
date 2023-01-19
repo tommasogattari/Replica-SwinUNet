@@ -4,8 +4,8 @@ This study presents a paper that concerns the utilization and the potential of S
 The GitHub repository structure is composed by:
 
 - [dataset](https://github.com/tommasogattari/Progetto-SwinUNet/tree/main/dataset) is the folder that contains the guide for the dataset Synapse used by the author of the paper
-- UNet 
-- Swin UNet unofficial 
+- [UNet](https://github.com/tommasogattari/Progetto-SwinUNet/blob/main/UNet.ipynb) 
+- [Swin UNet unofficial](https://github.com/tommasogattari/Progetto-SwinUNet/blob/main/Swin%20Unet%20unofficial.ipynb) 
 - [Swin UNet official replicated](https://drive.google.com/file/d/15tIdXrgodIMF--DXQd9r1rT_QXZGKFK6/view?usp=sharing)
 
 In the histogram below there are the results of differents UNet-based architecture ordered by each mean dice value
