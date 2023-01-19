@@ -30,4 +30,5 @@ If you want to run datapreparation.ipnyb is possibile to use Jupyter Notebook, o
 - training_synapse
 - testing_synapse
 - labels
-Otherwise, for the official data go to https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd
+
+Otherwise, for the official data already preprocessed go to https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd
