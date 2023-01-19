@@ -3,7 +3,7 @@ This study presents a paper that concerns the utilization and the potential of S
 
 The GitHub repository structure is composed by:
 
-- [dataset](https://github.com/tommasogattari/Progetto-SwinUNet/tree/main/dataset) :is the folder that contains the guide for the dataset Synapse used by the author of the paper
+- [dataset](https://github.com/tommasogattari/Progetto-SwinUNet/tree/main/dataset) is the folder that contains the guide for the dataset Synapse used by the author of the paper
 - UNet 
 - Swin UNet unofficial 
 - Swin UNet official 
