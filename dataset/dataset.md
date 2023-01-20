@@ -6,7 +6,7 @@ of these folders is nii.gz that is an open file format commonly used to store br
 - clip the images within [-125, 275]
 - normalize each 3D image to [0, 1]
 - for training:
-- extract 2D slices from 3D volume
+   - extract 2D slices from 3D volume
 - while for testing:
    - keep the 3D volume in h5 format for testing cases 
 
