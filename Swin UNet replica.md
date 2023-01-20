@@ -1,4 +1,4 @@
-[Here](https://drive.google.com/file/d/15tIdXrgodIMF--DXQd9r1rT_QXZGKFK6/view?usp=sharing?h50) you can find all folders and files needed to run the whole project
+[Here](https://drive.google.com/file/d/15tIdXrgodIMF--DXQd9r1rT_QXZGKFK6/view?usp=sharing?h=50) you can find all folders and files needed to run the whole project
 
 In the image below there is the scructure of the project:
 ![preprocessing data](https://user-images.githubusercontent.com/48884211/213570250-dff7abcf-0926-4cf9-a976-1d0a7ec99c94.jpg)
