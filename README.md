@@ -11,3 +11,8 @@ The GitHub repository structure is composed by:
 In the histogram below there are the results of differents UNet-based architecture ordered by each mean dice value
 
 ![Main Results.png](https://github.com/tommasogattari/Progetto-SwinUNet/blob/main/Main%20Results.png)
+
+# References
+
+![TransUNet](https://github.com/Beckschen/TransUNet)
+![SwinTransformer](https://github.com/microsoft/Swin-Transformer)
