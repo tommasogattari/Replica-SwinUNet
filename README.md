@@ -14,5 +14,5 @@ In the histogram below there are the results of differents UNet-based architectu
 
 # References
 
-- ![TransUNet](https://github.com/Beckschen/TransUNet)
-- ![SwinTransformer](https://github.com/microsoft/Swin-Transformer)
+- [TransUNet](https://github.com/Beckschen/TransUNet)
+- [SwinTransformer](https://github.com/microsoft/Swin-Transformer)
